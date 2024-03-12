@@ -12,10 +12,10 @@ Well, maybe not all right away, but we'll see what makes it into the public eye.
 
 ## Where else can you find me?
 
-[Coronax's Project Blog] - I have a blog - I know, how unfashionable! It's been dormant for a while but I'm hoping to rejuvenate it in the near future.
+[CJ's Project Blog] - I have a blog - I know, how unfashionable! It's been dormant for a while but I'm hoping to rejuvenate it in the near future.
 
 [//]: # 
 
-   [Coronax's Project Blog]: <https://coronax.wordpress.com>
+   [CJ's Project Blog]: <https://coronax.wordpress.com>
    [iSEEK Corporation]: <https://www.iseekcorp.com>
    
